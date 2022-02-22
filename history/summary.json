@@ -41,11 +41,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "piped-de",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 522,
     "timeDay": 435,
     "timeWeek": 522,
@@ -114,17 +114,19 @@
     "url": "https://track.read-my-man.ga",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "mine-track-site-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 329,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 494,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   }
 ]
