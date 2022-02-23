@@ -1,7 +1,7 @@
 url: https://piped.moomoo.me
-status: up
-code: 200
-responseTime: 534
-lastUpdated: 2022-02-22T23:12:07.745Z
+status: down
+code: 502
+responseTime: 441
+lastUpdated: 2022-02-23T04:41:37.190Z
 startTime: Fri Feb 18 2022 04:10:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
