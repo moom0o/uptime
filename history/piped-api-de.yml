@@ -1,7 +1,7 @@
 url: https://pipedapi.moomoo.me
 status: down
-code: 200
-responseTime: 401
-lastUpdated: 2023-02-01T23:11:09.504Z
+code: 503
+responseTime: 248
+lastUpdated: 2023-02-02T23:11:39.930Z
 startTime: Fri Feb 18 2022 04:10:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
